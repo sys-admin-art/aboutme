@@ -2,7 +2,9 @@
 
 안녕하세요? 저는 IT인프라 엔지니어로 일하고 있는 방구석 코더입니다.
 
-# Project Title / Infra Coding Project (SideOnInfra Proj) + Web Development Project (Web Proj)
+# Project Title 
+## Infra Coding Project (SideOnInfra Proj) + Web Development Project (Web Proj)
+
 제일 좋아하는 명언 : 거인의 어깨에 올라서서 더 넓은 세상을 바라보라
 <img src="https://t1.kakaocdn.net/olive/ossguide/intro_main.png" alt="" class="mt-1"/>
 
